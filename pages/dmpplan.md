@@ -7,7 +7,7 @@ permalink: /dmpplan.html
 
 This is my data management plan! Slay!
 
-[This is a link to my metadata application profile.](https://LIBDSCI350m-Fall25.github.io/wallin-demo/objects/group2map.pdf)
+[This is a link to my metadata application profile.]((objects/group2map.pdf)
 
 1. bananas
 2. apples
